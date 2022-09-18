@@ -1,10 +1,10 @@
 # This repository contains the folowing notebooks:
 
-## <img src="scikit-metrics/scikit-metrics.svg" width=50 height=50 align="left">  Scikit-Learn
+## <img src="scikit-metrics/scikit-metrics.svg" width=30 height=30 align="left">  Scikit-Learn
 An overview of how to use scikit-learn.
 
 
-## <img src="scikit-meta/scikit-meta.svg" width=50 height=50 align="left"> Scikit-Metrics
+## <img src="scikit-meta/scikit-meta.svg" width=30 height=30 align="left"> Scikit-Metrics
 
 How can you customise metrics to pick the right model. 
 
